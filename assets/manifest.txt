@@ -1,0 +1,9 @@
+golden.bin | GOLDEN BROWN | 326 | 100
+sun_moon.bin | ONE SUN & ONE MOON | 400 | 75
+oorumblood.bin | OORUMBLOOD | 238 | 100
+naan_sonnathum.bin | NAAN SONNATHUM | 121 | 100
+otha_sollala.bin | OTHA SOLLALA | 276 | 100
+nalai_ruppoo.bin | NALAI RUPPOO | 320 | 100
+kalyanii.bin | KALYANII | 371 | 100
+ooroda_othaadon.bin | OORODA OTHAADON | 182 | 100
+radhima.bin | RADHIMA | 222 | 100
